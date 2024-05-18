@@ -1,0 +1,5 @@
+content/french/posts/drafts/
+content/english/posts/drafts/
+public/*
+.hugo_build.lock
+resources/_gen
