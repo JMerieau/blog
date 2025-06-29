@@ -6,7 +6,7 @@ aliases = ["about-me","about"]
 
 French cybersecurity engineer, in love with Switzerland and cheese 🇨🇭🫕
 
-I enjoy cyber for three things: adrenaline, challenges and learning. I also think sharing knowledge is beautiful and I hope my articles will help you!
+I enjoy cyber for 3 things: adrenaline, challenges and learning. I hope my articles will help you!
 
 Feel free to reach out ;)
 
