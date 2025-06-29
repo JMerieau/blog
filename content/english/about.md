@@ -11,6 +11,7 @@ I enjoy cyber for three things: adrenaline, challenges and learning. I also thin
 Feel free to reach out ;)
 
 ## Certifications
+- March 2025 - OSCP & OSCP+
 - May 2024 - Swiss A1/A3 drone operator
 - May 2024 - Burp Suite Certified Practitioner (BSCP)
 
@@ -27,6 +28,7 @@ Feel free to reach out ;)
 {{% /column %}}
 
 {{% column %}}
+* Active Directory exploitation
 * Privilege escalation
 * Blockchain Web3 audit
 * Virtualization (Docker, Proxmox)
@@ -38,7 +40,6 @@ Feel free to reach out ;)
 {{< /row >}}
 
 ### Soon
-* Active Directory exploitation
 * Stealthy exploitation
 * Hardware hacking
 
@@ -87,9 +88,11 @@ Feel free to reach out ;)
 
 {{< timeline >}}
 
-    {{% event date="since Oct. 2023" title="Pentester at Deloitte (Zurich)"%}}Web and mobile penetration tests for a swiss bank.{{% /event %}}
+    {{% event date="since May. 2025" title="CTO at HoneyBadger Consulting GmbH (Zurich)"%}}{{% /event %}}
+
+    {{% event date="since Oct. 2023" title="Pentester at Deloitte (Zurich)"%}}Web and mobile application audits for swiss banks.{{% /event %}}
     
-    {{% event date="Sept. 2023" title="Cybersecurity engineer - CNAM & ESNA"%}}Thesis on minimizing compromise indicators during attacks on common infrastructures{{% /event %}}
+    {{% event date="Sept. 2023" title="Cybersecurity engineer - CNAM & ESNA"%}}Thesis on minimizing compromise indicators during attacks on common infrastructures.{{% /event %}}
 
     {{% event date="2022-2023" title="Pentester at Acceis (Rennes)"%}}Apprenticeship, web and infrastructure penetration testing.{{% /event %}}
     
@@ -97,7 +100,7 @@ Feel free to reach out ;)
     
     {{% event date="Apr. 2022 - Sept 2023" title="Conference manager - ESN'HACK"%}}{{% /event %}}
 
-    {{% event date="2020-2022" title="Drone designer at *********"%}}Apprenticeship, designing and autonomously building a secure and non-signaling cargo drone{{% /event %}}
+    {{% event date="2020-2022" title="Drone designer at *********"%}}Apprenticeship, designing and autonomously building a secure and non-signaling cargo drone.{{% /event %}}
 
     {{% event date="Feb. 2021" title="Founder member - Medus'Hack"%}}{{% /event %}}
 

@@ -6,11 +6,12 @@ aliases = ["about-me","about"]
 
 Ingénieur français en cybersécurité, fan de la Suisse et de fromage 🇨🇭🫕
 
-J'aime la cyber pour 3 choses: l'adrénaline, les challenges et apprendre. Pour moi, le partage de connaissance est génial et j'espère que mes articles vous seront utiles !
+J'aime la cyber pour 3 choses: l'adrénaline, les challenges et apprendre. J'espère que mes quelques articles vous seront utiles !
 
 N'hésitez pas à me contacter ;)
 
 ## Certifications
+- Mars 2025 - OSCP & OSCP+
 - Mai 2024 - Opérateur drones A1/A3 Suisse
 - Mai 2024 - Burp Suite Certified Practitioner (BSCP)
 
@@ -20,13 +21,14 @@ N'hésitez pas à me contacter ;)
 
 {{% column %}}
 * Exploitation web client & serveur
-* Programmation: PHP, Python, Rust, Java, C#...
+* Programmation: PHP, Python, Java, C#...
 * Forensics (memory, network, disk)
 * Connaissances environnement Red Team
 * Reverse (android, .NET)
 {{% /column %}}
 
 {{% column %}}
+* Exploitation Active Directory
 * Elevation de privileges
 * Audit blockchain Web3
 * Virtualisation (Docker, Proxmox)
@@ -38,11 +40,10 @@ N'hésitez pas à me contacter ;)
 {{< /row >}}
 
 ### En cours
-* Exploitation Active Directory
 * Exploitation furtive
 * Hardware hacking
 
-## Conférences
+## Conférences présentées
 
 | Type            | Title                         | Year | Event    | Comment                |
 | :-----------    | :--------------------------   | :--: | :------: | :--------------------: |
@@ -55,31 +56,31 @@ N'hésitez pas à me contacter ;)
 | Conf & Workshop | Voyage au centre des XSS      | 2020 | ESN'HACK | XSS basiques
 
 ## Compétitions
-| Date         | Name                                | Challenges done                             | Results        | Comment                |
+| Date         | Nom                                | Challenges faits                             | Résultats        | Commentaire                |
 | :----------- | :---------------------------------- | :------------------------------------------ | :------------: | :--------------------: |
 | 29 Juin 2023 | pwn2learn bug bounty                | Unauth. to admin (9.8 CVSS)                 | Plus impactant | Trouvé sur COREFF, gestion des brasseries
 | 6 Avril 2023 | European Cyber Cup (EC2)            | Web, Forensic, OT                           | 1ere equipe    |
 | 12 Mai 2023  | HeroCTF v5                          | Web, Blockchain, OSINT, MISC                | 1ere equipe    |
-| 2 Dec. 2022  | HackTheBox University CTF           | Web                                         | 2eme equipe    | = points avec la 1ere equipe mais flaggé 10 minutes après :(
+| 2 Dec. 2022  | HackTheBox University CTF           | Web                                         | 2eme equipe    | ex-aequo en points, dernier flag 10 minutes après :(
 | 16 Nov. 2022 | European Cyber Week (ECW)           | Web, MISC                                   | 1ere equipe    |
 | 4 Nov. 2022  | Unlock Your Brain CTF               | Pentest                                     | 2eme equipe    | CTF type Attaque-defense
 | 8 Juin 2022  | European Cyber Cup (EC2)            | Web, Forensic, Bug Bounty                   | 3eme equipe    |
 | 29 Mai 2022  | HeroCTF v4                          | Web, Blockchain, OSINT                      | 1ere equipe    |
 | 1 Avril 2022 | BreizhCTF                           | Web, Blockchain, Pentest                    | 4eme equipe    | 1ere équipe d'etudiants
-| 12 Jan. 2022 | pwn2learn bug bounty                | Unauth. to admin (9.6 CVSS), DoS (7.4 CVSS) | 1er            | Plus gros live bug bounty avec des étudiants. Trouvées sur 6tzen, certifié CSPN, utilisé par beaucoup de services administratifs français.
+| 12 Jan. 2022 | pwn2learn bug bounty                | Unauth. to admin (9.6 CVSS), DoS (7.4 CVSS) | 1er            | Plus gros live bug bounty impliquant des étudiants. Trouvées sur 6tzen, certifié CSPN, utilisé par beaucoup de services administratifs français.
 | 17 Nov. 2021 | European Cyber Week (ECW)           | Web, Forensic, MISC                         | 1ere equipe    |
 | 9 Sept. 2021 | European Cyber Cup (EC2)            | Web, Forensic, Bug Bounty                   | 1ere equipe    |
 | 28 Août 2020 | ESN'HACK CTF                        | Web, MISC                                   | 1ere equipe    |
 | Mai 2019     | 24 heures des IUT informatique      | Web dev, CTF                                | 2eme equipe    | 1ere equipe en cybersécurité
 
 ## Réalisations
-| Date         | Name                                     | Comment             |
+| Date         | Nom                                     | Commentaire             |
 | :----------- | :--------------------------------------- | :-------------------------- |
 | 2023         | Chall. MidnightFlag CTF                  | Création de challenges web
 | Nov. 2022    | Site de l'ESNA                           | esna.bzh créé bénévolement avec un ami
 | 26 Oct. 2022 | Hack in Paradize                         | CTF créé pour la Conférence Caribbéenne de Cybersécurité
 | 2022         | Chall. MidnightFlag CTF                  | Création de challenges web
-| 2021         | Site de l'ESN'HACK                       | esnhack.fr créé bénévolement
+| 2021         | Site de l'ESN'HACK                       | esnhack.fr (ancien) créé bénévolement
 | 2019         | Collecte de fonds 'Mille et un sourires' | Création d'un site de collecte de fonds pour un évènement
 | 2017         | Application antivol                      | Développé en Java, créé en équipe pour un examen scolaire
 
@@ -87,7 +88,9 @@ N'hésitez pas à me contacter ;)
 
 {{< timeline >}}
 
-    {{% event date="since Oct. 2023" title="Pentester à Deloitte (Zurich)"%}}Audit d'applications web et mobiles pour une banque suisse.{{% /event %}}
+    {{% event date="depuis Mai. 2025" title="CTO à HoneyBadger Consulting GmbH (Zurich)"%}}{{% /event %}}
+
+    {{% event date="depuis Oct. 2023" title="Pentester à Deloitte (Zurich)"%}}Audit d'applications web et mobiles pour des banques suisses.{{% /event %}}
     
     {{% event date="Sept. 2023" title="Ingénieur cyberdéfense - CNAM & ESNA"%}}Mémoire d'ingénieur sur la minimisation des indicateurs de compromission lors d'attaques d'infrastructures communes.{{% /event %}}
 
