@@ -21,7 +21,7 @@ N'hésitez pas à me contacter ;)
 
 {{% column %}}
 * Exploitation web client & serveur
-* Programmation: PHP, Python, Java, C#...
+* Programmation: PHP, Python, Rust, Java, C#...
 * Forensics (memory, network, disk)
 * Connaissances environnement Red Team
 * Reverse (android, .NET)
