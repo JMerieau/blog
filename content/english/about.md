@@ -43,17 +43,17 @@ Feel free to reach out ;)
 * Stealthy exploitation
 * Hardware hacking
 
-## Conferences
+## Conferences given
 
 | Type            | Title                       | Year | Event    | Comment                |
-| :-----------    | :-------------------------- | :--: | :------: | :--------------------: |
-| Conference      | Advanced shoemaker          | 2023 | ESN'HACK | Botting techniques
-| Rump            | The good dummy              | 2023 | ESN'HACK | Automating scraping
-| Conference      | OSS 503: Kevin is down      | 2022 | ESN'HACK | DDoS techniques
-| Workshop        | Android reverse             | 2022 | ESN'HACK | Basic techniques
-| Rump            | Panic to crit               | 2022 | ESN'HACK | pwn2learn 2022 feedback
-| Conf & Workshop | In the XSS country          | 2021 | ESN'HACK | Complex XSS
-| Conf & Workshop | Travel to the center of XSS | 2020 | ESN'HACK | XSS basics
+| :-----------    | :--------------------------   | :--: | :------: | :--------------------: |
+| Conference      | Advanced shoemaking          | 2023 | ESN'HACK | Botting techniques
+| Rump            | The good dummy               | 2023 | ESN'HACK | Automated scraping
+| Conference      | OSS 503: Kevin is not responding | 2022 | ESN'HACK | DDoS techniques
+| Workshop        | Android reverse              | 2022 | ESN'HACK | Basics
+| Rump            | Panic to crit                | 2022 | ESN'HACK | pwn2learn 2022 feedback
+| Conf & Workshop | In the land of XSS           | 2021 | ESN'HACK | Complex XSS
+| Conf & Workshop | Journey to the center of XSS  | 2020 | ESN'HACK | Basic XSS
 
 ## Competitions
 | Date         | Name                                | Challenges done                             | Results        | Comment                |
